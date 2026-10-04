@@ -1,0 +1,18 @@
+# Python caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Task outputs and logs
+cu_shots/
+cu_trees/
+*.log
+
+# Local environment and editor files
+.env
+.env.*
+.venv/
+.idea/
+.vscode/
+Thumbs.db
+.DS_Store

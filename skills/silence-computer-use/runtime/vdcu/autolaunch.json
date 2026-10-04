@@ -1,0 +1,9 @@
+{
+  "commands": [
+    {
+      "application": "C:\\Windows\\System32\\cmd.exe",
+      "command_line": "/c \"set KIMI_CU_WIN_AGENT_PIPE=\\\\.\\pipe\\kimi-cu-win-vd&& \"{kimicu}\" start-agent > \"%TEMP%\\vd_kimicu_agent.log\" 2>&1\"",
+      "hide_window": true
+    }
+  ]
+}
